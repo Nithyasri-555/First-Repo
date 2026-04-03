@@ -1,3 +1,3 @@
 # First-Repo
-A first file in github<br> Author - Nithya sri
+A first file in github<br> Author - Nithya sri Gampa
 
